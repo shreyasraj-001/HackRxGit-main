@@ -1,0 +1,21 @@
+# Updated requirements - FAISS removed, using LangChain in-memory vector store
+
+fastapi
+uvicorn
+requests
+pdfplumber
+PyMuPDF  # fitz
+langchain
+langchain-openai
+langchain-experimental
+langchain-text-splitters
+langchain-ollama
+langchain-community
+langchain-core
+python-dotenv
+docarray  # Required for DocArrayInMemorySearch
+pydantic
+
+# Note: FAISS is no longer required
+# The system now uses DocArrayInMemorySearch from langchain-community
+# which provides in-memory vector storage with cosine similarity

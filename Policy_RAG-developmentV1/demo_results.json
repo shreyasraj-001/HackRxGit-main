@@ -1,0 +1,38 @@
+{
+  "Original Semantic": {
+    "chunks": 5,
+    "time": 2.2726876735687256,
+    "sample_chunk": "INSURANCE POLICY DOCUMENT\n    \n    SECTION 1: DEFINITIONS\n    In this policy, the following terms ha..."
+  },
+  "Enhanced Adaptive": {
+    "chunks": 5,
+    "time": 0.0020012855529785156,
+    "sample_chunk": "INSURANCE POLICY DOCUMENT\n    \n    SECTION 1: DEFINITIONS\n    In this policy, the following terms ha..."
+  },
+  "Lightning Fast": {
+    "chunks": 5,
+    "time": 0.0,
+    "sample_chunk": "INSURANCE POLICY DOCUMENT\n    \n    SECTION 1: DEFINITIONS\n    In this policy, the following terms ha..."
+  },
+  "Policy Aware": {
+    "chunks": 5,
+    "time": 0.0010013580322265625,
+    "sample_chunk": "INSURANCE POLICY DOCUMENT\n    \n    SECTION 1: DEFINITIONS\n    In this policy, the following terms ha..."
+  },
+  "Enhanced Framework": {
+    "chunks": 5,
+    "time": 0.002008199691772461,
+    "quality": {
+      "total_chunks": 5,
+      "avg_chunk_length": 376.4,
+      "std_chunk_length": 371.813178894993,
+      "min_chunk_length": 55,
+      "max_chunk_length": 1027,
+      "coverage_ratio": 0.9048076923076923,
+      "length_consistency": 0.012186028440507424,
+      "size_distribution_score": 0.37738218821740027,
+      "content_preservation_score": 1.0
+    },
+    "sample_chunk": "INSURANCE POLICY DOCUMENT\n    \n    SECTION 1: DEFINITIONS\n    In this policy, the following terms ha..."
+  }
+}

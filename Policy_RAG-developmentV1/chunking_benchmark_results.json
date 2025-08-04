@@ -1,0 +1,147 @@
+{
+  "Semantic Chunking": {
+    "method": "Semantic Chunking",
+    "avg_duration": 0.022514184315999348,
+    "min_duration": 0.011500835418701172,
+    "max_duration": 0.03373003005981445,
+    "avg_chunks": 195,
+    "avg_chunk_size": 569.0615384615385,
+    "success_rate": 1.0,
+    "runs": [
+      {
+        "duration": 0.022311687469482422,
+        "num_chunks": 195,
+        "avg_chunk_size": 569.0615384615385,
+        "success": true
+      },
+      {
+        "duration": 0.03373003005981445,
+        "num_chunks": 195,
+        "avg_chunk_size": 569.0615384615385,
+        "success": true
+      },
+      {
+        "duration": 0.011500835418701172,
+        "num_chunks": 195,
+        "avg_chunk_size": 569.0615384615385,
+        "success": true
+      }
+    ]
+  },
+  "Lightning Fast Split": {
+    "method": "Lightning Fast Split",
+    "avg_duration": 0.014442125956217447,
+    "min_duration": 0.010237932205200195,
+    "max_duration": 0.02141594886779785,
+    "avg_chunks": 185,
+    "avg_chunk_size": 586.854054054054,
+    "success_rate": 1.0,
+    "runs": [
+      {
+        "duration": 0.010237932205200195,
+        "num_chunks": 185,
+        "avg_chunk_size": 586.854054054054,
+        "success": true
+      },
+      {
+        "duration": 0.02141594886779785,
+        "num_chunks": 185,
+        "avg_chunk_size": 586.854054054054,
+        "success": true
+      },
+      {
+        "duration": 0.011672496795654297,
+        "num_chunks": 185,
+        "avg_chunk_size": 586.854054054054,
+        "success": true
+      }
+    ]
+  },
+  "Smart Fast Split": {
+    "method": "Smart Fast Split",
+    "avg_duration": 0.016290585199991863,
+    "min_duration": 0.01105809211730957,
+    "max_duration": 0.021348237991333008,
+    "avg_chunks": 186,
+    "avg_chunk_size": 583.6935483870968,
+    "success_rate": 1.0,
+    "runs": [
+      {
+        "duration": 0.021348237991333008,
+        "num_chunks": 186,
+        "avg_chunk_size": 583.6935483870968,
+        "success": true
+      },
+      {
+        "duration": 0.01105809211730957,
+        "num_chunks": 186,
+        "avg_chunk_size": 583.6935483870968,
+        "success": true
+      },
+      {
+        "duration": 0.016465425491333008,
+        "num_chunks": 186,
+        "avg_chunk_size": 583.6935483870968,
+        "success": true
+      }
+    ]
+  },
+  "Adaptive Split": {
+    "method": "Adaptive Split",
+    "avg_duration": 0.01545405387878418,
+    "min_duration": 0.01272130012512207,
+    "max_duration": 0.01854872703552246,
+    "avg_chunks": 185,
+    "avg_chunk_size": 586.854054054054,
+    "success_rate": 1.0,
+    "runs": [
+      {
+        "duration": 0.015092134475708008,
+        "num_chunks": 185,
+        "avg_chunk_size": 586.854054054054,
+        "success": true
+      },
+      {
+        "duration": 0.01854872703552246,
+        "num_chunks": 185,
+        "avg_chunk_size": 586.854054054054,
+        "success": true
+      },
+      {
+        "duration": 0.01272130012512207,
+        "num_chunks": 185,
+        "avg_chunk_size": 586.854054054054,
+        "success": true
+      }
+    ]
+  },
+  "Recursive Character Splitter": {
+    "method": "Recursive Character Splitter",
+    "avg_duration": 0.004187107086181641,
+    "min_duration": 0.003216266632080078,
+    "max_duration": 0.005068302154541016,
+    "avg_chunks": 134,
+    "avg_chunk_size": 864.6194029850747,
+    "success_rate": 1.0,
+    "runs": [
+      {
+        "duration": 0.005068302154541016,
+        "num_chunks": 134,
+        "avg_chunk_size": 864.6194029850747,
+        "success": true
+      },
+      {
+        "duration": 0.003216266632080078,
+        "num_chunks": 134,
+        "avg_chunk_size": 864.6194029850747,
+        "success": true
+      },
+      {
+        "duration": 0.004276752471923828,
+        "num_chunks": 134,
+        "avg_chunk_size": 864.6194029850747,
+        "success": true
+      }
+    ]
+  }
+}
